@@ -1,0 +1,66 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Caches
+*.sqlite3
+
+# Virtual environment
+venv/
+env/
+
+# Logs
+*.log
+
+# Local development settings
+local_settings.py
+
+# Media files
+media/
+
+# Static files
+static/
+
+# Compiled Python files
+*.pyc
+
+# Environment variables file
+.env
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Thumbnails
+._*
+
+# Windows
+Thumbs.db
+ehthumbs.db
+
+# Folder config file
+Desktop.ini
+
+# Recycle Bin used on file shares
+$RECYCLE.BIN/
+
+# VS Code
+.vscode/
+
+# PyCharm
+.idea/
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# SageMath
+.sageMath/
+
+# Enthought Canopy
+*.egg-info/
+.dist-info/
+
+# Django
+*.log
